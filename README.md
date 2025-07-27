@@ -1,0 +1,1 @@
+# App-con-funzione-offline
